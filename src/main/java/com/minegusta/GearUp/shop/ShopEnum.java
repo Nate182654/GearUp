@@ -17,48 +17,48 @@ public enum ShopEnum
             addEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, 3);
         }
     }, "400", ChatColor.RED + "Helmet of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
-    I2(new ItemStack(Material.DIAMOND_HELMET)
+    I2(new ItemStack(Material.DIAMOND_CHESTPLATE)
     {
         {
             addEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, 3);
         }
-    }, "400", ChatColor.RED + "Helmet of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
-    I3(new ItemStack(Material.DIAMOND_HELMET)
+    }, "400", ChatColor.RED + "ChestPlate of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
+    I3(new ItemStack(Material.DIAMOND_LEGGINGS)
     {
         {
             addEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, 3);
         }
-    }, "400", ChatColor.RED + "Helmet of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
-    I4(new ItemStack(Material.DIAMOND_HELMET)
+    }, "400", ChatColor.RED + "Leggings of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
+    I4(new ItemStack(Material.DIAMOND_BOOTS)
     {
         {
             addEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, 3);
         }
-    }, "400", ChatColor.RED + "Helmet of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
+    }, "400", ChatColor.RED + "Boots of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
     I5(new ItemStack(Material.DIAMOND_HELMET)
     {
         {
             addEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, 3);
         }
     }, "400", ChatColor.RED + "Helmet of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
-    I7(new ItemStack(Material.DIAMOND_HELMET)
+    I7(new ItemStack(Material.DIAMOND_CHESTPLATE)
     {
         {
             addEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, 3);
         }
-    }, "400", ChatColor.RED + "Helmet of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
-    I8(new ItemStack(Material.DIAMOND_HELMET)
+    }, "400", ChatColor.RED + "Chestplate of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
+    I8(new ItemStack(Material.DIAMOND_LEGGINGS)
     {
         {
             addEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, 3);
         }
-    }, "400", ChatColor.RED + "Helmet of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
-    I9(new ItemStack(Material.DIAMOND_HELMET)
+    }, "400", ChatColor.RED + "Leggings of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
+    I9(new ItemStack(Material.DIAMOND_BOOTS)
     {
         {
             addEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, 3);
         }
-    }, "400", ChatColor.RED + "Helmet of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
+    }, "400", ChatColor.RED + "Boots of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
     I10(new ItemStack(Material.DIAMOND_HELMET)
     {
         {
@@ -70,19 +70,19 @@ public enum ShopEnum
         {
             addEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, 3);
         }
-    }, "400", ChatColor.RED + "Helmet of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
+    }, "400", ChatColor.RED + "Chestplate of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
     I12(new ItemStack(Material.DIAMOND_HELMET)
     {
         {
             addEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, 3);
         }
-    }, "400", ChatColor.RED + "Helmet of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
+    }, "400", ChatColor.RED + "Leggings of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
     I13(new ItemStack(Material.DIAMOND_HELMET)
     {
         {
             addEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, 3);
         }
-    }, "400", ChatColor.RED + "Helmet of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
+    }, "400", ChatColor.RED + "Boots of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
     I14(new ItemStack(Material.DIAMOND_HELMET)
     {
         {
@@ -94,20 +94,14 @@ public enum ShopEnum
         {
             addEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, 3);
         }
-    }, "400", ChatColor.RED + "Helmet of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
+    }, "400", ChatColor.RED + "Chestplate of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
     I16(new ItemStack(Material.DIAMOND_HELMET)
     {
         {
             addEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, 3);
         }
-    }, "400", ChatColor.RED + "Helmet of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
+    }, "400", ChatColor.RED + "Leggings of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
     I17(new ItemStack(Material.DIAMOND_HELMET)
-    {
-        {
-            addEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, 3);
-        }
-    }, "400", ChatColor.RED + "Helmet of", Lists.newArrayList(ChatColor.GRAY + "Bonus when wearing a full set.")),
-    I18(new ItemStack(Material.DIAMOND_HELMET)
     {
         {
             addEnchantment(Enchantment.PROTECTION_ENVIRONMENTAL, 3);
